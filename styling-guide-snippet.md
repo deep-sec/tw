@@ -92,7 +92,7 @@ Below are a few word-choice examples.
 
 ### Grammatical person: "You" for the user
 
-Write docs in the second person, addressing the reader directly as "you".
+Write docs in the second person and address the reader as "you".
 
 ```text
 Good: Terraform Cloud's API lets you create workspaces without a VCS connection.
