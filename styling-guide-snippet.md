@@ -131,8 +131,8 @@ Next, the service will be registered.
 
 ### Pronouns
 
-To cut down on the number of pronouns in your writing, replace the user with the grammatical person "you". If you do find yourself using pronouns,
-make sure they are necessary, and if so, use the gender neutral "they/them".
+To cut down on the number of pronouns in your writing, replace the user with the grammatical person "you". 
+If you do find yourself using pronouns,make sure they are necessary, and if so, use the gender neutral "they/them".
 
 |Good|Bad|
 -|-
@@ -140,7 +140,8 @@ make sure they are necessary, and if so, use the gender neutral "they/them".
 
 ### Over Simplification
 
-Our products are rich and complex. Avoid using words that allude to processes being easy. Doing so can alienate users who are having a hard time or are encountering bugs.
+Our products are rich and complex. Avoid using words that allude to processes being easy. 
+Doing so can alienate users who are having a hard time or are encountering bugs.
 
 Avoid saying:
 - easy, easily, simply
