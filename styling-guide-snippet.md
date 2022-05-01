@@ -9,7 +9,7 @@ A consistent writing style and voice makes the HashiCorp brand
 strong and vibrant. There are a few reasons for our writing
 style choices. In particular, we want to optimize for:
 
-- **Non-native speakers** - Literal translations do not mean the same thing in different countries or regions.
+- **Non-native speakers** - Translations are not literal in different countries or regions.
 
 - **2am, half awake operators** - Flowery sentences is not helpful when trying to
   get a system back online.
