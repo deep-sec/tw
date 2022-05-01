@@ -24,8 +24,7 @@ style choices. In particular, we want to optimize for:
 Experience and user feedback guide the majority of our principles. As a
 high-level set of rules, we follow [Orwell's 6 rules](http://www.orwell.ru/library/essays/politics/english/e_polit):
 
-- Never use a metaphor, simile, or other figure of speech which you are used to
-  seeing in print.
+- Never use a metaphor, simile, or other figure of speech you see in print.
 
 - Never use a long word where a short one will do.
 
