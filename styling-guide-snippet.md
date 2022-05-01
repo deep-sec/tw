@@ -131,8 +131,7 @@ Next, the service will be registered.
 
 ### Pronouns
 
-If you are using the grammatical person "you" for the user you probably won't
-use very many pronouns in your writing. If you do find yourself using pronouns,
+To cut down on the number of pronouns in your writing, replace the user with the grammatical person "you". If you do find yourself using pronouns,
 make sure they are necessary, and if so, use the gender neutral "they/them".
 
 |Good|Bad|
