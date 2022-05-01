@@ -1,8 +1,8 @@
 # How do fetch, pull, and push differ?
 
-- `git fetch` - download all changes from a remote repo into your local repo
-- `git pull` - download all changes from a remote repo into your local repo and merge them into a tracked local branch
-- `git push` - upload all changes from a local repo to a remote repo
+- `git fetch` - download all changes from a remote repo into your local repo.
+- `git pull` - download all changes from a remote repo into your local repo and merge them into a tracked local branch.
+- `git push` - upload all changes from a local repo to a remote repo.
 
 ## Git fetch
 `git fetch` looks all changes made in the **remote repo** and downloads them into your **local repo**. The code in your tracked **local branch** does not change. 
