@@ -17,9 +17,7 @@ style choices. In particular, we want to optimize for:
 - **Time efficiency** - When we write in the same style, we can
   spend more time focusing on the content.
 
-- **Product transitions** - A user who is familiar with the
-  Consul documentation that chooses to adopt Vault should not feel as though
-  they need to learn an entire new language just to read the docs. 
+- **Product transitions** - Users familiar with Consul documentation can adopt Vault without learning a new language. 
 
 ## Guiding principles
 
