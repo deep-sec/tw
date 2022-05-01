@@ -11,7 +11,7 @@ style choices. In particular, we want to optimize for:
 
 - **Non-native speakers** - Translations are not literal in different countries or regions.
 
-- **2am, half awake operators** - Flowery sentences is not helpful when trying to
+- **2am, half awake operators** - Flowery sentences are not helpful when trying to
   get a system back online.
 
 - **Time efficiency** - When we write in the same style, we can
