@@ -81,12 +81,12 @@ You can install Terraform by finding the binary and downloading it. You will nee
 
 The following are recommendations that will help you with word choice. 
 
-- Use "you" for the user
-- Use "we" for HashiCorp recommendations
-- avoid ableist language
-- never use a metaphor, simile, jargon, or other figure of speech
-- use short words 
-- cut unnecessary words
+- Use "you" for the user.
+- Use "we" for HashiCorp recommendations.
+- Avoid 'ableist' language.
+- Never use a metaphor, simile, jargon, or other figure of speech.
+- Use short words.
+- Cut unnecessary words.
 
 Below are a few word-choice examples. 
 
