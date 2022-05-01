@@ -7,16 +7,16 @@
 ## Git fetch
 `git fetch` looks all changes made in the **remote repo** and downloads them into your **local repo**. The code in your tracked **local branch** does not change. 
 
-Note: Use ‘git merge’ to make changes to a tracked **local branch** after reviewing & confirming the details fetched. 
+Note: Review & confirm the details fetched. Then use `git merge` to make changes to a tracked **local branch**. 
 
 
 ## Git pull
-`git pull` performs a `git fetch` followed by a `git merge` into a tracked **local branch**. The code is updated immediately.
+`git pull` performs a `git fetch` followed by a `git merge` into a tracked **local branch**. The code will update immediately without review.
 
-Note: Confirm that you understand the changes being made prior to using `git pull`. You cannot review the changes locally beforehand.
+Note: Confirm the changes before using `git pull` since there is no local review available.
 
 
 ## Git push
-`git push` uploads all changes made in your **local repo** to the **remote repo**. Code is shared with a remote repository to replicate the changes made locally. 
+`git push` uploads all changes made in your **local repo** to the **remote repo**. This command shares code with a remote repository to replicate the local changes.
 
-Note: Pushing will fail if commits in the **remote branch** are not in your **local branch**. Resolve this by synchronizing the **local branch** with the **remote branch** with either `git pull` or `git fetch` and `git merge`.
+Note: Pushing will fail if commits in the **remote branch** are not in your **local branch**. Resolve this by synchronizing the **local branch** with the **remote branch**. Use either `git pull` or `git fetch` and `git merge`.
