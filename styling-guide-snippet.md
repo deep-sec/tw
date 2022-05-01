@@ -69,7 +69,9 @@ To convey action, use directive language. For example:
 
 ```text
 Good:
-To install Terraform, find the appropriate package for your system and download it as a zip archive.
+To install Terraform:
+1. Find the correct package for your system.
+2. Download it as a zip archive.
 
 Bad:
 You can install Terraform by finding the binary and downloading it. You will need the appropriate package for your system.
